@@ -47,7 +47,7 @@ Here’s the polished **Contact** section for your README with proper formatting
 
 ---
 
-## 📬 Contact  
+<h2>📬 Contact </h2> 
 
 For collaborations, questions, or feedback, feel free to reach out:  
 
