@@ -14,9 +14,6 @@
   <a href="mailto:rg967029@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Rahul2201020931">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://huggingface.co/Rahul9898">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
@@ -59,10 +56,10 @@
 
 | Project | Description | Tech Used | Links |
 |---------|-------------|-----------|-------|
-| **YOLO Object Tracker** | Real-time detection & tracking system | YOLOv8, OpenCV, Python | [GitHub](https://github.com/Rahul2201020931) |
+| **YOLO Object Tracker** | Real-time detection & tracking system | YOLOv8, OpenCV, Python | [Hugging Face](https://huggingface.co/spaces/Rahul9898/Construction-PPE-Detection) |
 | **Smart Auction Platform** | Full-stack live bidding system | MERN Stack, WebSockets | [GitHub](https://github.com/Rahul2201020931) |
-| **Potato Disease Classifier** | AI model for plant disease detection | TensorFlow, FastAPI | [Hugging Face](https://huggingface.co/Rahul9898) |
-
+| **Potato Disease Classifier** | AI model for plant disease detection | TensorFlow, FastAPI | [GitHub](https://github.com/Rahul2201020931/Construction-PPE-Detection) |
+| **Ai and real image Detector** | AI model for detection of real and fake image || [https://github.com/Rahul2201020931/AI-Real-Image-Detector]
 ---
 
 ### 📬 Get in Touch
