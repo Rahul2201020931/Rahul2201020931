@@ -59,7 +59,7 @@
 | **YOLO Object Tracker** | Real-time detection & tracking system | YOLOv8, OpenCV, Python | [Hugging Face](https://huggingface.co/spaces/Rahul9898/Construction-PPE-Detection) |
 | **Smart Auction Platform** | Full-stack live bidding system | MERN Stack, WebSockets | [GitHub](https://github.com/Rahul2201020931) |
 | **Potato Disease Classifier** | AI model for plant disease detection | TensorFlow, FastAPI | [GitHub](https://github.com/Rahul2201020931/Construction-PPE-Detection) |
-| **Ai and real image Detector** | AI model for detection of real and fake image || [https://github.com/Rahul2201020931/AI-Real-Image-Detector]
+| **Ai and real image Detector** | AI model for detection of real and fake image |TensorFlow,Python| [GitHub](https://github.com/Rahul2201020931/AI-Real-Image-Detector)
 ---
 
 ### 📬 Get in Touch
