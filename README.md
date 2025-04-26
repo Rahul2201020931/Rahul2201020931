@@ -25,7 +25,7 @@
 - Building real-time tracking systems and intelligent agriculture solutions
 - Learning Advanced ML/DL concepts and Scalable Web Architectures
 - Leading as Vice President of CGU's Space Club (100+ events organized)
-- Competing in hackathons (SIH 2024 Finalist | Odisha Skills Winner)
+- Competing in hackathons (SIH 2024 Finalist | Odisha Skills )
 
 ---
 
