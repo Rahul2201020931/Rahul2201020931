@@ -6,6 +6,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Full+Stack+%7C+Embedded;Vice+President%2C+CGU+Space+Club;Turning+Ideas+into+Orbits" />
 </p>
+<!-- Hero Section -->
+<!-- Hero Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif" alt="Mario Working" style="max-width: 100%; height: auto;">
+</p>
+
 
 <h3 align="center">🛰️ Mission Control</h3>
 
