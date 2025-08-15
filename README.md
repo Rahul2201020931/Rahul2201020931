@@ -9,8 +9,9 @@
 <!-- Hero Section -->
 <!-- Hero Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif" alt="Mario Working" style="max-width: 100%; height: auto;">
+  <img src="https://i.postimg.cc/mkyMPrV7/mario-working.gif" alt="Mario Working" style="max-width: 100%; height: auto;">
 </p>
+
 
 
 <h3 align="center">🛰️ Mission Control</h3>
