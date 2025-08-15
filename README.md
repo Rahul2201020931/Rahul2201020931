@@ -34,7 +34,6 @@
   <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000"/></a>
