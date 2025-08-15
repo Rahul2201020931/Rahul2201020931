@@ -1,53 +1,61 @@
-<h1 align="center">👋 Hey there! I'm Rahul Kumar Gupta</h1>
-<h3 align="center">AI/ML Enthusiast | Full Stack Developer | Embedded Systems Explorer</h3>
+<h1 align="center"><samp>👋 Hey there! I'm <b>Rahul Kumar Gupta</b></samp></h1>
+<h2 align="center"><samp>AI/ML Enthusiast • Full-Stack Developer • Embedded Systems Explorer</samp></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahul-kumar-gupta-784bab284/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/rahul_kumar_gupta123/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.kaggle.com/rahulkumargupta002">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:rg967029@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/Rahul9898">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Rahul2201020931&label=Visitors&color=1e90ff&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Theme-Space%20Odyssey-8a2be2?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Full+Stack+%7C+Embedded;Vice+President%2C+CGU+Space+Club;Turning+Ideas+into+Orbits" />
 </p>
 
 ---
 
-### 🔭 I'm Currently...
-- Building real-time tracking systems and intelligent agriculture solutions
-- Learning Advanced ML/DL concepts and Scalable Web Architectures
-- Leading as Vice President of CGU's Space Club (100+ events organized)
-- Competing in hackathons (SIH 2024 Finalist | Odisha Skills )
+<h3 align="center">🛰️ Mission Control</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-kumar-gupta-784bab284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/rahul_kumar_gupta123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.kaggle.com/rahulkumargupta002"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="mailto:rg967029@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://huggingface.co/Rahul9898"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="https://github.com/Rahul2201020931"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🌌 What I'm Orbiting Right Now
+- 🛰️ Building **real-time tracking systems** & **intelligent agriculture** solutions
+- 🤖 Deepening **ML/DL** + **scalable web architectures**
+- 🛰️ **Vice President, CGU Space Club** — organized 20+ events
+- 🏆 Love hackathons (**SIH 2024 Finalist**, Odisha Skills)
 
 ---
 
 ### 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-</p>
-
-**AI/ML & Tools:**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></a>
 </p>
 
 ---
@@ -56,34 +64,21 @@
 
 | Project | Description | Tech Used | Links |
 |---------|-------------|-----------|-------|
-| **YOLO Object Tracker** | Real-time detection & tracking system | YOLOv8, OpenCV, Python | [Hugging Face](https://huggingface.co/spaces/Rahul9898/Construction-PPE-Detection) |
+| **AI Interview Assistant** | Interactive AI-powered interview Q&A assistant | Python, ML/NLP | [GitHub](https://github.com/Rahul2201020931/Ai_interview) |
 | **Smart Auction Platform** | Full-stack live bidding system | MERN Stack, WebSockets | [GitHub](https://github.com/Rahul2201020931) |
 | **Potato Disease Classifier** | AI model for plant disease detection | TensorFlow, FastAPI | [GitHub](https://github.com/Rahul2201020931/Construction-PPE-Detection) |
-| **Ai and real image Detector** | AI model for detection of real and fake image |TensorFlow,Python| [GitHub](https://github.com/Rahul2201020931/AI-Real-Image-Detector)
+| **AI and Real Image Detector** | AI model for detection of real and fake images | TensorFlow, Python | [GitHub](https://github.com/Rahul2201020931/AI-Real-Image-Detector) |
+
+
 ---
 
-### 📬 Get in Touch
-<p align="center">
-  <a href="mailto:rg967029@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-kumar-gupta-784bab284/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/rahul_kumar_gupta123/">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="40"/>
-  </a>
-  <a href="https://www.kaggle.com/rahulkumargupta002">
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png" alt="Kaggle" width="40"/>
-  </a>
-  <a href="https://github.com/Rahul2201020931">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40"/>
-  </a>
-  <a href="https://huggingface.co/Rahul9898">
-    <img src="https://img.icons8.com/windows/48/000000/hugging-face.png" alt="Hugging Face" width="40"/>
-  </a>
-</p>
+### 📟 Telemetry (Stats)
 
 <p align="center">
-  <i>Always open to collaborate on AI, Web, and Embedded Tech projects!</i> 💡
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul2201020931&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul2201020931&layout=compact&hide_border=true&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&langs_count=8&hide=jupyter%20notebook,tex" />
 </p>
+
+---
+
+<p align="center"><i>“Per aspera ad astra.” — Through hardships to the stars.</i></p>
