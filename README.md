@@ -1,17 +1,11 @@
 <h1 align="center"><samp>👋 Hey there! I'm <b>Rahul Kumar Gupta</b></samp></h1>
 <h2 align="center"><samp>AI/ML Enthusiast • Full-Stack Developer • Embedded Systems Explorer</samp></h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahul2201020931&label=Visitors&color=1e90ff&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Theme-Space%20Odyssey-8a2be2?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</p>
 
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Full+Stack+%7C+Embedded;Vice+President%2C+CGU+Space+Club;Turning+Ideas+into+Orbits" />
 </p>
-
----
 
 <h3 align="center">🛰️ Mission Control</h3>
 
