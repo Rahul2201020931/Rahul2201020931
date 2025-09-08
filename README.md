@@ -31,7 +31,6 @@
 - 🛰️ Building **real-time tracking systems** & **intelligent agriculture** solutions
 - 🤖 Deepening **ML/DL** + **scalable web architectures**
 - 🛰️ **Vice President, CGU Space Club** — organized 20+ events
-- 🏆 Love hackathons (**SIH 2024 Finalist**, Odisha Skills)
 
 ---
 
