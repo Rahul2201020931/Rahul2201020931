@@ -14,6 +14,7 @@
 
 
 
+
 <h3 align="center">🛰️ Mission Control</h3>
 
 <p align="center">
@@ -79,5 +80,8 @@
 </p>
 
 ---
+<!-- <p align="center">
+  <img src="https://img-blog.csdnimg.cn/2019122617442217.gif" alt="Mario Working" style="max-width: 100%; height: auto;">
+</p> -->
 
 <p align="center"><i>“Per aspera ad astra.” — Through hardships to the stars.</i></p>
