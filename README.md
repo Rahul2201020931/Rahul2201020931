@@ -1,87 +1,231 @@
-<h1 align="center"><samp>👋 Hey there! I'm <b>Rahul Kumar Gupta</b></samp></h1>
-<h2 align="center"><samp>AI/ML Enthusiast • Full-Stack Developer • Embedded Systems Explorer</samp></h2>
+<h1 align="center">
+  👋 Hey, I'm <b>Rahul Kumar Gupta</b>
+</h1>
 
-
-<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Full+Stack+%7C+Embedded;Vice+President%2C+CGU+Space+Club;Turning+Ideas+into+Orbits" />
-</p>
-<!-- Hero Section -->
-<!-- Hero Section -->
-<p align="center">
-  <img src="https://i.postimg.cc/mkyMPrV7/mario-working.gif" alt="Mario Working" style="max-width: 100%; height: auto;">
+  <samp>
+    AI/ML • Full-Stack Development • Embedded Systems • Space Tech
+  </samp>
 </p>
 
-
-
-
-<h3 align="center">🛰️ Mission Control</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+AI+that+solves+real+problems;Turning+ideas+into+working+systems;AI%2FML+%7C+Full+Stack+%7C+Embedded;Vice+President+%40+CGU+Space+Club;Always+learning.+Always+building.+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahul-kumar-gupta-784bab284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/rahul_kumar_gupta123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.kaggle.com/rahulkumargupta002"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="mailto:rg967029@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://huggingface.co/Rahul9898"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-  <a href="https://github.com/Rahul2201020931"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://i.postimg.cc/mkyMPrV7/mario-working.gif" width="650" alt="Developer working animation"/>
 </p>
 
 ---
 
-### 🌌 What I'm Orbiting Right Now
-- 🛰️ Building **real-time tracking systems** & **intelligent agriculture** solutions
-- 🤖 Deepening **ML/DL** + **scalable web architectures**
-- 🛰️ **Vice President, CGU Space Club** — organized 20+ events
+## 🛰️ Mission Control
 
----
-
-### 🛠️ Tech Stack
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></a>
+  <a href="https://github.com/Rahul2201020931">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rahul-kumar-gupta-784bab284/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/rahul_kumar_gupta123/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.kaggle.com/rahulkumargupta002">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://huggingface.co/Rahul9898">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
+  <a href="mailto:rg967029@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 Highlight Projects
+## 🌌 About Me
 
-| Project | Description | Tech Used | Links |
-|---------|-------------|-----------|-------|
-| **AI Interview Assistant** | Interactive AI-powered interview Q&A assistant | Python, ML/NLP | [GitHub](https://github.com/Rahul2201020931/Ai_interview) |
-| **Smart Auction Platform** | Full-stack live bidding system | MERN Stack, WebSockets | [GitHub](https://github.com/Rahul2201020931) |
-| **Potato Disease Classifier** | AI model for plant disease detection | TensorFlow, FastAPI | [GitHub](https://github.com/Rahul2201020931/Construction-PPE-Detection) |
-| **AI and Real Image Detector** | AI model for detection of real and fake images | TensorFlow, Python | [GitHub](https://github.com/Rahul2201020931/AI-Real-Image-Detector) |
+I'm a **Computer Engineering student** passionate about building things that sit at the intersection of **AI, software, hardware, and space technology**.
 
+I enjoy taking an idea from a rough concept → prototype → working system.
+
+```text
+🧠 AI / ML          → Intelligent systems & computer vision
+🌐 Full Stack       → Scalable web applications
+⚡ Embedded         → Microcontrollers & real-world systems
+🛰️ Space Tech       → Tracking, aerospace & exploration
+🚀 Hackathons       → Build fast. Learn faster.
+```
+
+Currently exploring **Machine Learning, Deep Learning, Full-Stack Architecture, Computer Vision, Embedded Systems, and Space Technology.**
 
 ---
 
-### 📟 Telemetry (Stats)
+## 🛰️ Current Mission
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul2201020931&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul2201020931&layout=compact&hide_border=true&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&langs_count=8&hide=jupyter%20notebook,tex" />
+* 🤖 Building **AI/ML applications** that solve practical problems
+* 🌱 Exploring **AI-powered agriculture & intelligent systems**
+* 🛰️ Working on **space-tech and real-time tracking concepts**
+* 🧠 Deepening my knowledge of **ML/DL & Computer Vision**
+* 🌐 Building better **full-stack applications**
+* ⚡ Exploring **STM32, embedded systems & IoT**
+* 👨‍🚀 **Vice President — CGU Space Club**
+* 🎯 Always looking for the next interesting problem to solve
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,sql,html,css" />
+</p>
+
+### 🌐 Web & Application Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,firebase" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### ⚡ Embedded & Hardware
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </p>
 
 ---
-<!-- <p align="center">
-  <img src="https://img-blog.csdnimg.cn/2019122617442217.gif" alt="Mario Working" style="max-width: 100%; height: auto;">
-</p> -->
 
-<p align="center"><i>“Per aspera ad astra.” — Through hardships to the stars.</i></p>
+## 🚀 Featured Projects
+
+| 🚀 Project                    | 🔍 What It Does                                            | ⚙️ Tech              |
+| ----------------------------- | ---------------------------------------------------------- | -------------------- |
+| **AI Interview Assistant**    | AI-powered assistant for interactive interview preparation | Python • ML • NLP    |
+| **Smart Auction Platform**    | Real-time auction and bidding platform                     | MERN • WebSockets    |
+| **AI & Real Image Detector**  | Detects whether an image is AI-generated or real           | TensorFlow • Python  |
+| **Potato Disease Classifier** | Detects potato plant diseases using computer vision        | TensorFlow • FastAPI |
+| **Smart Agriculture Systems** | Exploring intelligent solutions for agriculture using AI   | Python • ML • IoT    |
+
+### 🔗 Project Links
+
+<p>
+  <a href="https://github.com/Rahul2201020931/Ai_interview">
+    <img src="https://img.shields.io/badge/AI_Interview_Assistant-View_Project-58A6FF?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://github.com/Rahul2201020931/AI-Real-Image-Detector">
+    <img src="https://img.shields.io/badge/AI_Real_Image_Detector-View_Project-58A6FF?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://github.com/Rahul2201020931/Construction-PPE-Detection">
+    <img src="https://img.shields.io/badge/Computer_Vision_Project-View_Project-58A6FF?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🧑‍🚀 Leadership & Community
+
+### 🛰️ Vice President — CGU Space Club
+
+Working with students to explore **space technology, engineering, innovation, and entrepreneurship**.
+
+* 🚀 Organized **20+ technical & space-related events**
+* 🧑‍💻 Encouraged students to participate in hackathons
+* 🛰️ Worked on space-tech project initiatives
+* 🤝 Collaborated with students across technical domains
+* 🌌 Promoted hands-on learning beyond classrooms
+
+## 🧩 What I Like Building
+
+```text
+                    ┌─────────────────────┐
+                    │      AN IDEA 💡      │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │     RESEARCH 🔎      │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │    PROTOTYPE 🛠️     │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │      TEST 🧪         │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │     DEPLOY 🚀       │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │   KEEP IMPROVING ♾️  │
+                    └─────────────────────┘
+```
+
+---
+
+## 🌠 Beyond the Code
+
+When I'm not coding, you'll probably find me:
+
+* 🛰️ Exploring space & aerospace technology
+* 🤖 Experimenting with AI
+* 🧪 Building random prototypes
+* 🏆 Participating in hackathons
+* 📚 Learning something completely new
+* 🎨 Designing ideas in Canva
+* ☕ Debugging code that worked five minutes ago
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in **interesting projects, collaborations, hackathons, AI ideas, and space-tech discussions.**
+
+<p align="center">
+  <a href="mailto:rg967029@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Build%20Something-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="450" alt="Coding animation"/>
+</p>
+
+<p align="center">
+  <samp>
+    <i>“Per aspera ad astra.”</i>
+  </samp>
+  <br>
+  <sub>Through hardships to the stars. 🚀</sub>
+</p>
+
+<p align="center">
+  <samp>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</samp>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting here, consider giving it a star!
+</p>
