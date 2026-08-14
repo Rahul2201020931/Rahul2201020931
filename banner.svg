@@ -1,0 +1,82 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050510"/>
+      <stop offset="55%" stop-color="#0b0c2a"/>
+      <stop offset="100%" stop-color="#1a1040"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c5cff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="planetGlow" cx="35%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#ff8a5c"/>
+      <stop offset="60%" stop-color="#e0553f"/>
+      <stop offset="100%" stop-color="#7a2a2a"/>
+    </radialGradient>
+    <linearGradient id="trail" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#b18bff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#sky)"/>
+  <circle cx="600" cy="130" r="260" fill="url(#glow)"/>
+
+  <!-- stars -->
+  <g fill="#ffffff">
+    <circle cx="40" cy="30" r="1.4" opacity="0.9"/>
+    <circle cx="120" cy="70" r="1" opacity="0.6"/>
+    <circle cx="200" cy="24" r="1.6" opacity="0.8"/>
+    <circle cx="300" cy="90" r="1" opacity="0.5"/>
+    <circle cx="380" cy="40" r="1.3" opacity="0.9"/>
+    <circle cx="470" cy="20" r="1" opacity="0.6"/>
+    <circle cx="560" cy="60" r="1.2" opacity="0.7"/>
+    <circle cx="80" cy="150" r="1.1" opacity="0.5"/>
+    <circle cx="170" cy="200" r="1.4" opacity="0.7"/>
+    <circle cx="260" cy="250" r="1" opacity="0.4"/>
+    <circle cx="350" cy="270" r="1.3" opacity="0.6"/>
+    <circle cx="900" cy="35" r="1.4" opacity="0.9"/>
+    <circle cx="970" cy="80" r="1" opacity="0.6"/>
+    <circle cx="1040" cy="25" r="1.6" opacity="0.8"/>
+    <circle cx="1100" cy="95" r="1" opacity="0.5"/>
+    <circle cx="1150" cy="45" r="1.3" opacity="0.9"/>
+    <circle cx="850" cy="180" r="1.2" opacity="0.6"/>
+    <circle cx="1000" cy="230" r="1" opacity="0.5"/>
+    <circle cx="1080" cy="270" r="1.4" opacity="0.7"/>
+    <circle cx="720" cy="290" r="1" opacity="0.5"/>
+    <circle cx="640" cy="50" r="1" opacity="0.6"/>
+  </g>
+
+  <!-- distant planet -->
+  <circle cx="1080" cy="70" r="34" fill="url(#planetGlow)"/>
+  <ellipse cx="1080" cy="70" rx="52" ry="9" fill="none" stroke="#ffb199" stroke-opacity="0.35" stroke-width="2" transform="rotate(-18 1080 70)"/>
+
+  <!-- rocket trajectory (kept clear of the text block below) -->
+  <path d="M 240 150 Q 560 30 940 85" fill="none" stroke="url(#trail)" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- rocket -->
+  <g transform="translate(920,88) rotate(-18)">
+    <path d="M0 -22 C10 -14 12 6 6 20 L -6 20 C -12 6 -10 -14 0 -22 Z" fill="#e9ecff"/>
+    <path d="M0 -22 C4 -16 5 -6 4 4 L -4 4 C -5 -6 -4 -16 0 -22 Z" fill="#00e5ff"/>
+    <path d="M -6 14 L -18 26 L -6 22 Z" fill="#7c5cff"/>
+    <path d="M 6 14 L 18 26 L 6 22 Z" fill="#7c5cff"/>
+    <circle cx="0" cy="-6" r="3.2" fill="#0b0c2a"/>
+    <path d="M -4 20 Q 0 34 4 20 Z" fill="#ff8a5c" opacity="0.9"/>
+  </g>
+
+  <!-- name -->
+  <text x="70" y="215" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="url(#text-grad)" letter-spacing="1">RAHUL KUMAR GUPTA</text>
+  <text x="72" y="248" font-family="Consolas, Menlo, monospace" font-size="18" fill="#b7c0e8" letter-spacing="0.5">AI/ML Engineer · Full-Stack Developer · Space Tech Builder</text>
+
+  <!-- mission tag -->
+  <rect x="70" y="270" width="230" height="30" rx="15" fill="#101334" stroke="#3a3f7a"/>
+  <text x="86" y="290" font-family="Consolas, Menlo, monospace" font-size="13" fill="#00e5ff">STATUS: MISSION ACTIVE 🟢</text>
+
+  <rect x="316" y="270" width="215" height="30" rx="15" fill="#101334" stroke="#3a3f7a"/>
+  <text x="332" y="290" font-family="Consolas, Menlo, monospace" font-size="13" fill="#b18bff">ROLE: VP · CGU SPACE CLUB</text>
+</svg>

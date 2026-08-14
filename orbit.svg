@@ -1,0 +1,86 @@
+<svg width="820" height="820" viewBox="0 0 820 820" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#12143a"/>
+      <stop offset="100%" stop-color="#05050f"/>
+    </radialGradient>
+    <radialGradient id="core" cx="35%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#9be8ff"/>
+      <stop offset="45%" stop-color="#4dc9ff"/>
+      <stop offset="100%" stop-color="#1c5ea8"/>
+    </radialGradient>
+    <linearGradient id="node1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff9d6c"/><stop offset="100%" stop-color="#e0553f"/>
+    </linearGradient>
+    <linearGradient id="node2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a78bfa"/><stop offset="100%" stop-color="#6d28d9"/>
+    </linearGradient>
+    <linearGradient id="node3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5eead4"/><stop offset="100%" stop-color="#0d9488"/>
+    </linearGradient>
+    <linearGradient id="node4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde68a"/><stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="node5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#93c5fd"/><stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="820" height="820" fill="url(#bg)"/>
+
+  <!-- faint stars -->
+  <g fill="#ffffff" opacity="0.5">
+    <circle cx="60" cy="60" r="1.3"/><circle cx="740" cy="80" r="1.1"/>
+    <circle cx="90" cy="740" r="1.4"/><circle cx="760" cy="750" r="1.2"/>
+    <circle cx="410" cy="30" r="1.1"/><circle cx="410" cy="790" r="1.1"/>
+    <circle cx="30" cy="410" r="1.2"/><circle cx="790" cy="410" r="1.2"/>
+  </g>
+
+  <!-- orbit rings -->
+  <circle cx="410" cy="410" r="150" fill="none" stroke="#3a3f7a" stroke-width="1" stroke-dasharray="3 6"/>
+  <circle cx="410" cy="410" r="230" fill="none" stroke="#3a3f7a" stroke-width="1" stroke-dasharray="3 6"/>
+  <circle cx="410" cy="410" r="310" fill="none" stroke="#2a2e5c" stroke-width="1" stroke-dasharray="2 8"/>
+
+  <!-- core -->
+  <circle cx="410" cy="410" r="72" fill="url(#core)"/>
+  <text x="410" y="404" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#04263f">RG</text>
+  <text x="410" y="426" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#04263f">CORE ENGINE</text>
+
+  <!-- inner ring nodes (radius 150 from core, evenly spaced) -->
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <!-- AI/ML : angle -90 -->
+    <circle cx="410" cy="260" r="58" fill="url(#node1)"/>
+    <text x="410" y="255" font-size="15" font-weight="700" fill="#2a0f08">AI / ML</text>
+    <text x="410" y="273" font-size="9" fill="#2a0f08" font-family="Consolas, monospace">TF · Torch · sklearn</text>
+
+    <!-- Full-Stack : angle 30 -->
+    <circle cx="540" cy="485" r="58" fill="url(#node2)"/>
+    <text x="540" y="480" font-size="14" font-weight="700" fill="#20063f">FULL-STACK</text>
+    <text x="540" y="498" font-size="9" fill="#20063f" font-family="Consolas, monospace">React · Node · Mongo</text>
+
+    <!-- Computer Vision : angle 150 -->
+    <circle cx="280" cy="485" r="58" fill="url(#node3)"/>
+    <text x="280" y="480" font-size="14" font-weight="700" fill="#022c26">VISION</text>
+    <text x="280" y="498" font-size="9" fill="#022c26" font-family="Consolas, monospace">OpenCV · FastAPI</text>
+  </g>
+
+  <!-- outer ring nodes (radius 230 from core, evenly spaced) -->
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <!-- Embedded : angle -30 -->
+    <circle cx="609" cy="295" r="52" fill="url(#node4)"/>
+    <text x="609" y="290" font-size="13" font-weight="700" fill="#3f2600">EMBEDDED</text>
+    <text x="609" y="307" font-size="9" fill="#3f2600" font-family="Consolas, monospace">Arduino · RPi</text>
+
+    <!-- Space Tech : angle -150 -->
+    <circle cx="211" cy="295" r="52" fill="url(#node5)"/>
+    <text x="211" y="290" font-size="13" font-weight="700" fill="#0a1a4a">SPACE TECH</text>
+    <text x="211" y="307" font-size="9" fill="#0a1a4a" font-family="Consolas, monospace">Tracking · CGU Club</text>
+  </g>
+
+  <!-- connecting lines from core to inner nodes -->
+  <g stroke="#4dc9ff" stroke-width="1.2" opacity="0.4">
+    <line x1="410" y1="338" x2="410" y2="318"/>
+    <line x1="446" y1="452" x2="497" y2="470"/>
+    <line x1="374" y1="452" x2="323" y2="470"/>
+  </g>
+</svg>
