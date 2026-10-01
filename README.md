@@ -1,124 +1,123 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:a371f7&height=260&section=header&text=Rahul%20Kumar%20Gupta&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=I%20turn%20ideas%20into%20working%20systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f6feb,100:a371f7&height=230&section=header&text=Rahul%20Kumar%20Gupta&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Building%20at%20the%20edge%20of%20AI%20%C2%B7%20Code%20%C2%B7%20Space&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-**Computer Engineering** &nbsp;/&nbsp; **AI & Machine Learning** &nbsp;/&nbsp; **Full-Stack** &nbsp;/&nbsp; **Embedded** &nbsp;/&nbsp; **Space Tech**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=620&height=30&lines=%24+AI+%2F+ML+%E2%80%A2+Computer+Vision;%24+Full-Stack+%E2%80%A2+Embedded+%E2%80%A2+IoT;%24+VP+%40+CGU+Space+Club+%F0%9F%9B%B0%EF%B8%8F;%24+idea+%E2%86%92+prototype+%E2%86%92+launch" />
 
 <br>
 
-<a href="https://rahulinfo.me"><img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-rahulinfo.me-1f6feb?style=for-the-badge&labelColor=0d1117"/></a>
-<a href="https://www.linkedin.com/in/rahul-kumar-gupta-784bab284/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff"/></a>
-<a href="mailto:rg967029@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0d1117?style=for-the-badge&logo=gmail&logoColor=a371f7"/></a>
+<a href="https://rahulinfo.me"><img src="https://img.shields.io/badge/%F0%9F%8C%90_rahulinfo.me-ENTER%20MY%20ORBIT-1f6feb?style=for-the-badge&labelColor=0d1117"/></a>
+<img src="https://komarev.com/ghpvc/?username=Rahul2201020931&label=VISITORS&color=a371f7&style=for-the-badge&labelColor=0d1117"/>
 
 <br><br>
 
-<table>
-<tr>
-<td align="center" width="25%"><h2>20+</h2><sub>EVENTS ORGANISED</sub></td>
-<td align="center" width="25%"><h2>05</h2><sub>FEATURED PROJECTS</sub></td>
-<td align="center" width="25%"><h2>VP</h2><sub>CGU SPACE CLUB</sub></td>
-</tr>
-</table>
+<a href="https://www.linkedin.com/in/rahul-kumar-gupta-784bab284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/rahulkumargupta002"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://huggingface.co/Rahul9898"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<a href="https://leetcode.com/u/rahul_kumar_gupta123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:rg967029@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 <br>
 
-## 01 &nbsp;/&nbsp; About
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:a371f7&height=2&section=header" width="100%"/>
 
-> I like the moment an idea stops being a sketch and starts running. My work sits where **AI, software, hardware and space** meet: computer vision that reads the real world, web platforms that scale, and embedded systems that touch it.
+## 🛰️ &nbsp;Mission Briefing
 
-<table>
+```text
+╭──────────────────────────────────────────────────────╮
+│  CALLSIGN   : Rahul Kumar Gupta                      │
+│  CLASS      : Computer Engineering                   │
+│  POST       : Vice President, CGU Space Club         │
+│  MISSION    : Build AI that solves real problems     │
+│  PAYLOAD    : Vision · Full-Stack · Embedded · Space │
+│  EVENTS LED : 20+                                    │
+│  STATUS     : ● online, always shipping              │
+╰──────────────────────────────────────────────────────╯
+```
+
+<table align="center">
 <tr>
 <td width="33%" valign="top">
 
-**Building**<br>
-<sub>AI/ML applications and computer vision systems that solve practical problems.</sub>
+### 🧠 Building
+AI/ML apps and computer vision systems for practical problems.
 
 </td>
 <td width="33%" valign="top">
 
-**Exploring**<br>
-<sub>STM32, IoT, smart agriculture and real-time space tracking concepts.</sub>
+### ⚡ Exploring
+STM32, IoT, smart agriculture and real-time space tracking.
 
 </td>
 <td width="33%" valign="top">
 
-**Leading**<br>
-<sub>CGU Space Club: events, hackathons and hands-on space-tech initiatives.</sub>
+### 🚀 Leading
+Hackathons, events and hands-on space-tech initiatives.
 
 </td>
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:a371f7&height=2&section=header" width="100%"/>
 
-## 02 &nbsp;/&nbsp; Selected Work
+## 🚀 &nbsp;Launch Log
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f6feb,100:a371f7&height=90&section=header&text=AI%20Interview%20Assistant&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
-
-Interactive interview preparation powered by natural language processing.<br>
-<sub><samp>Python · ML · NLP</samp></sub><br>
-**[View project →](https://github.com/Rahul2201020931/Ai_interview)**
+**[AI Interview Assistant](https://github.com/Rahul2201020931/Ai_interview)**<br>
+Interactive interview prep powered by NLP.<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-a371f7?style=flat-square"/> <img src="https://img.shields.io/badge/LIVE-2ea043?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:39c5cf,100:1f6feb&height=90&section=header&text=AI%20vs%20Real%20Detector&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
-
-Tells AI-generated images from real photographs using deep learning.<br>
-<sub><samp>TensorFlow · Python</samp></sub><br>
-**[View project →](https://github.com/Rahul2201020931/AI-Real-Image-Detector)**
+**[AI vs Real Image Detector](https://github.com/Rahul2201020931/AI-Real-Image-Detector)**<br>
+Tells AI-generated images from real photos.<br><br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LIVE-2ea043?style=flat-square"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:a371f7,100:1f6feb&height=90&section=header&text=PPE%20Detection&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
-
-Detects safety equipment on construction sites in real time.<br>
-<sub><samp>Computer Vision</samp></sub><br>
-**[View project →](https://github.com/Rahul2201020931/Construction-PPE-Detection)**
+**[Construction PPE Detection](https://github.com/Rahul2201020931/Construction-PPE-Detection)**<br>
+Detects safety gear on construction sites.<br><br>
+<img src="https://img.shields.io/badge/Computer%20Vision-1f6feb?style=flat-square"/> <img src="https://img.shields.io/badge/LIVE-2ea043?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f6feb,100:39c5cf&height=90&section=header&text=Potato%20Disease%20Classifier&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
-
-Identifies potato plant diseases from leaf images, served through an API.<br>
-<sub><samp>TensorFlow · FastAPI</samp></sub>
+**Potato Disease Classifier**<br>
+Spots plant diseases from leaf images.<br><br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:a371f7,100:39c5cf&height=90&section=header&text=Smart%20Auction%20Platform&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
-
-Real-time auction and bidding with live updates for every participant.<br>
-<sub><samp>MERN · WebSockets</samp></sub>
+**Smart Auction Platform**<br>
+Real-time bidding with live updates.<br><br>
+<img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:1f6feb&height=90&section=header&text=More%20on%20my%20website&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
-
-Full portfolio, case studies and everything in progress.<br>
-<sub><samp>Web · Design · Systems</samp></sub><br>
-**[rahulinfo.me →](https://rahulinfo.me)**
+**Smart Agriculture + Space Tracking**<br>
+AI and IoT for farms, real-time orbital tracking.<br><br>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/> <img src="https://img.shields.io/badge/IN%20ORBIT-d29922?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:a371f7&height=2&section=header" width="100%"/>
 
-## 03 &nbsp;/&nbsp; Toolkit
+## 🧰 &nbsp;Tech Arsenal
 
 <div align="center">
 
@@ -129,31 +128,25 @@ Full portfolio, case studies and everything in progress.<br>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:a371f7&height=2&section=header" width="100%"/>
 
-## 04 &nbsp;/&nbsp; Activity
+## 📡 &nbsp;Telemetry
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rahul2201020931&hide_title=true&hide_border=true&theme=transparent&text_color=c9d1d9&icon_color=a371f7&show_icons=true&card_width=380">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rahul2201020931&hide_title=true&hide_border=true&theme=transparent&text_color=24292f&icon_color=1f6feb&show_icons=true&card_width=380"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul2201020931&layout=compact&hide_border=true&theme=transparent&text_color=c9d1d9&title_color=58a6ff&card_width=380">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul2201020931&layout=compact&hide_border=true&theme=transparent&text_color=24292f&title_color=1f6feb&card_width=380"/>
-</picture>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul2201020931&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=a371f7&show_icons=true&card_width=380"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul2201020931&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&card_width=380"/>
+
+<img src="https://streak-stats.demolab.com?user=Rahul2201020931&theme=tokyonight&hide_border=true&background=0d1117&ring=a371f7&fire=1f6feb&currStreakLabel=58a6ff"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul2201020931&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=12"/>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,55:1f6feb,100:0d1117&height=140&section=footer&text=Let%27s%20build%20something&fontSize=22&fontColor=ffffff&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,60:1f6feb,100:0d1117&height=110&section=footer&text=Per%20aspera%20ad%20astra&fontSize=18&fontColor=ffffff&fontAlignY=72" width="100%"/>
 
-<div align="center">
-
-<sub>Open to collaborations, internships and interesting problems &nbsp;·&nbsp; <a href="mailto:rg967029@gmail.com">rg967029@gmail.com</a> &nbsp;·&nbsp; <a href="https://rahulinfo.me">rahulinfo.me</a></sub>
-
-<sub><i>Per aspera ad astra</i></sub>
-
-</div>
+<p align="center">
+  <sub>Through hardships to the stars &nbsp;·&nbsp; <a href="mailto:rg967029@gmail.com">Let's build something together</a></sub>
+</p>
