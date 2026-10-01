@@ -1,231 +1,159 @@
-<h1 align="center">
-  👋 Hey, I'm <b>Rahul Kumar Gupta</b>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:a371f7&height=260&section=header&text=Rahul%20Kumar%20Gupta&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=I%20turn%20ideas%20into%20working%20systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <samp>
-    AI/ML • Full-Stack Development • Embedded Systems • Space Tech
-  </samp>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+AI+that+solves+real+problems;Turning+ideas+into+working+systems;AI%2FML+%7C+Full+Stack+%7C+Embedded;Vice+President+%40+CGU+Space+Club;Always+learning.+Always+building.+%F0%9F%9A%80" />
-</p>
+**Computer Engineering** &nbsp;/&nbsp; **AI & Machine Learning** &nbsp;/&nbsp; **Full-Stack** &nbsp;/&nbsp; **Embedded** &nbsp;/&nbsp; **Space Tech**
 
-<p align="center">
-  <img src="https://i.postimg.cc/mkyMPrV7/mario-working.gif" width="650" alt="Developer working animation"/>
-</p>
+<br>
 
----
+<a href="https://rahulinfo.me"><img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-rahulinfo.me-1f6feb?style=for-the-badge&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/rahul-kumar-gupta-784bab284/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff"/></a>
+<a href="mailto:rg967029@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0d1117?style=for-the-badge&logo=gmail&logoColor=a371f7"/></a>
 
-## 🛰️ Mission Control
+<br><br>
 
-<p align="center">
-  <a href="https://github.com/Rahul2201020931">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-kumar-gupta-784bab284/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/rahul_kumar_gupta123/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.kaggle.com/rahulkumargupta002">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://huggingface.co/Rahul9898">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  </a>
-  <a href="mailto:rg967029@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<table>
+<tr>
+<td align="center" width="25%"><h2>20+</h2><sub>EVENTS ORGANISED</sub></td>
+<td align="center" width="25%"><h2>05</h2><sub>FEATURED PROJECTS</sub></td>
+<td align="center" width="25%"><h2>VP</h2><sub>CGU SPACE CLUB</sub></td>
+</tr>
+</table>
 
----
+</div>
 
-## 🌌 About Me
+<br>
 
-I'm a **Computer Engineering student** passionate about building things that sit at the intersection of **AI, software, hardware, and space technology**.
+## 01 &nbsp;/&nbsp; About
 
-I enjoy taking an idea from a rough concept → prototype → working system.
+> I like the moment an idea stops being a sketch and starts running. My work sits where **AI, software, hardware and space** meet: computer vision that reads the real world, web platforms that scale, and embedded systems that touch it.
 
-```text
-🧠 AI / ML          → Intelligent systems & computer vision
-🌐 Full Stack       → Scalable web applications
-⚡ Embedded         → Microcontrollers & real-world systems
-🛰️ Space Tech       → Tracking, aerospace & exploration
-🚀 Hackathons       → Build fast. Learn faster.
-```
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Currently exploring **Machine Learning, Deep Learning, Full-Stack Architecture, Computer Vision, Embedded Systems, and Space Technology.**
+**Building**<br>
+<sub>AI/ML applications and computer vision systems that solve practical problems.</sub>
 
----
+</td>
+<td width="33%" valign="top">
 
-## 🛰️ Current Mission
+**Exploring**<br>
+<sub>STM32, IoT, smart agriculture and real-time space tracking concepts.</sub>
 
-* 🤖 Building **AI/ML applications** that solve practical problems
-* 🌱 Exploring **AI-powered agriculture & intelligent systems**
-* 🛰️ Working on **space-tech and real-time tracking concepts**
-* 🧠 Deepening my knowledge of **ML/DL & Computer Vision**
-* 🌐 Building better **full-stack applications**
-* ⚡ Exploring **STM32, embedded systems & IoT**
-* 👨‍🚀 **Vice President — CGU Space Club**
-* 🎯 Always looking for the next interesting problem to solve
+</td>
+<td width="33%" valign="top">
 
----
+**Leading**<br>
+<sub>CGU Space Club: events, hackathons and hands-on space-tech initiatives.</sub>
 
-## 🛠️ Tech Arsenal
+</td>
+</tr>
+</table>
 
-### 💻 Languages
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,sql,html,css" />
-</p>
+## 02 &nbsp;/&nbsp; Selected Work
 
-### 🌐 Web & Application Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,firebase" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f6feb,100:a371f7&height=90&section=header&text=AI%20Interview%20Assistant&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
 
-### 🤖 AI / Machine Learning
+Interactive interview preparation powered by natural language processing.<br>
+<sub><samp>Python · ML · NLP</samp></sub><br>
+**[View project →](https://github.com/Rahul2201020931/Ai_interview)**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-### 🗄️ Databases
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:39c5cf,100:1f6feb&height=90&section=header&text=AI%20vs%20Real%20Detector&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
+Tells AI-generated images from real photographs using deep learning.<br>
+<sub><samp>TensorFlow · Python</samp></sub><br>
+**[View project →](https://github.com/Rahul2201020931/AI-Real-Image-Detector)**
 
-### ⚡ Embedded & Hardware
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:a371f7,100:1f6feb&height=90&section=header&text=PPE%20Detection&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
 
-### 🔧 Tools
+Detects safety equipment on construction sites in real time.<br>
+<sub><samp>Computer Vision</samp></sub><br>
+**[View project →](https://github.com/Rahul2201020931/Construction-PPE-Detection)**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f6feb,100:39c5cf&height=90&section=header&text=Potato%20Disease%20Classifier&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
 
-## 🚀 Featured Projects
+Identifies potato plant diseases from leaf images, served through an API.<br>
+<sub><samp>TensorFlow · FastAPI</samp></sub>
 
-| 🚀 Project                    | 🔍 What It Does                                            | ⚙️ Tech              |
-| ----------------------------- | ---------------------------------------------------------- | -------------------- |
-| **AI Interview Assistant**    | AI-powered assistant for interactive interview preparation | Python • ML • NLP    |
-| **Smart Auction Platform**    | Real-time auction and bidding platform                     | MERN • WebSockets    |
-| **AI & Real Image Detector**  | Detects whether an image is AI-generated or real           | TensorFlow • Python  |
-| **Potato Disease Classifier** | Detects potato plant diseases using computer vision        | TensorFlow • FastAPI |
-| **Smart Agriculture Systems** | Exploring intelligent solutions for agriculture using AI   | Python • ML • IoT    |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🔗 Project Links
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:a371f7,100:39c5cf&height=90&section=header&text=Smart%20Auction%20Platform&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
 
-<p>
-  <a href="https://github.com/Rahul2201020931/Ai_interview">
-    <img src="https://img.shields.io/badge/AI_Interview_Assistant-View_Project-58A6FF?style=for-the-badge&logo=github"/>
-  </a>
+Real-time auction and bidding with live updates for every participant.<br>
+<sub><samp>MERN · WebSockets</samp></sub>
 
-  <a href="https://github.com/Rahul2201020931/AI-Real-Image-Detector">
-    <img src="https://img.shields.io/badge/AI_Real_Image_Detector-View_Project-58A6FF?style=for-the-badge&logo=github"/>
-  </a>
+</td>
+<td width="50%" valign="top">
 
-  <a href="https://github.com/Rahul2201020931/Construction-PPE-Detection">
-    <img src="https://img.shields.io/badge/Computer_Vision_Project-View_Project-58A6FF?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:1f6feb&height=90&section=header&text=More%20on%20my%20website&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
 
----
+Full portfolio, case studies and everything in progress.<br>
+<sub><samp>Web · Design · Systems</samp></sub><br>
+**[rahulinfo.me →](https://rahulinfo.me)**
 
-## 🧑‍🚀 Leadership & Community
+</td>
+</tr>
+</table>
 
-### 🛰️ Vice President — CGU Space Club
+<br>
 
-Working with students to explore **space technology, engineering, innovation, and entrepreneurship**.
+## 03 &nbsp;/&nbsp; Toolkit
 
-* 🚀 Organized **20+ technical & space-related events**
-* 🧑‍💻 Encouraged students to participate in hackathons
-* 🛰️ Worked on space-tech project initiatives
-* 🤝 Collaborated with students across technical domains
-* 🌌 Promoted hands-on learning beyond classrooms
+<div align="center">
 
-## 🧩 What I Like Building
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,firebase&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mongodb,mysql&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker,git,linux&theme=dark" />
 
-```text
-                    ┌─────────────────────┐
-                    │      AN IDEA 💡      │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │     RESEARCH 🔎      │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │    PROTOTYPE 🛠️     │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │      TEST 🧪         │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │     DEPLOY 🚀       │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │   KEEP IMPROVING ♾️  │
-                    └─────────────────────┘
-```
+</div>
 
----
+<br>
 
-## 🌠 Beyond the Code
+## 04 &nbsp;/&nbsp; Activity
 
-When I'm not coding, you'll probably find me:
+<div align="center">
 
-* 🛰️ Exploring space & aerospace technology
-* 🤖 Experimenting with AI
-* 🧪 Building random prototypes
-* 🏆 Participating in hackathons
-* 📚 Learning something completely new
-* 🎨 Designing ideas in Canva
-* ☕ Debugging code that worked five minutes ago
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rahul2201020931&hide_title=true&hide_border=true&theme=transparent&text_color=c9d1d9&icon_color=a371f7&show_icons=true&card_width=380">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rahul2201020931&hide_title=true&hide_border=true&theme=transparent&text_color=24292f&icon_color=1f6feb&show_icons=true&card_width=380"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul2201020931&layout=compact&hide_border=true&theme=transparent&text_color=c9d1d9&title_color=58a6ff&card_width=380">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul2201020931&layout=compact&hide_border=true&theme=transparent&text_color=24292f&title_color=1f6feb&card_width=380"/>
+</picture>
 
----
+</div>
 
-## 🤝 Let's Connect
+<br>
 
-I'm always interested in **interesting projects, collaborations, hackathons, AI ideas, and space-tech discussions.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,55:1f6feb,100:0d1117&height=140&section=footer&text=Let%27s%20build%20something&fontSize=22&fontColor=ffffff&fontAlignY=68" width="100%"/>
 
-<p align="center">
-  <a href="mailto:rg967029@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Build%20Something-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+<sub>Open to collaborations, internships and interesting problems &nbsp;·&nbsp; <a href="mailto:rg967029@gmail.com">rg967029@gmail.com</a> &nbsp;·&nbsp; <a href="https://rahulinfo.me">rahulinfo.me</a></sub>
 
-<p align="center">
-  <img src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="450" alt="Coding animation"/>
-</p>
+<sub><i>Per aspera ad astra</i></sub>
 
-<p align="center">
-  <samp>
-    <i>“Per aspera ad astra.”</i>
-  </samp>
-  <br>
-  <sub>Through hardships to the stars. 🚀</sub>
-</p>
-
-<p align="center">
-  <samp>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</samp>
-</p>
-
-<p align="center">
-  ⭐ If you find something interesting here, consider giving it a star!
-</p>
+</div>
