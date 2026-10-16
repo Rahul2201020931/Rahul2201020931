@@ -137,9 +137,9 @@ AI and IoT for farms, real-time orbital tracking.<br><br>
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul2201020931&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=a371f7&show_icons=true&card_width=380"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul2201020931&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&card_width=380"/>
 
-<img src="https://streak-stats.demolab.com?user=Rahul2201020931&theme=tokyonight&hide_border=true&background=0d1117&ring=a371f7&fire=1f6feb&currStreakLabel=58a6ff"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul2201020931&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=12"/>
+
+
 
 </div>
 
